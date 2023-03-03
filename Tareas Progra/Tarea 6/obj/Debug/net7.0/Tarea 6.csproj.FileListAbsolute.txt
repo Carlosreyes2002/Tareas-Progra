@@ -1,0 +1,15 @@
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\bin\Debug\net7.0\Tarea 6.exe
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\bin\Debug\net7.0\Tarea 6.deps.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\bin\Debug\net7.0\Tarea 6.runtimeconfig.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\bin\Debug\net7.0\Tarea 6.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\bin\Debug\net7.0\Tarea 6.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\refint\Tarea 6.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\Tarea 6.genruntimeconfig.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Tareas Progra\Tarea 6\obj\Debug\net7.0\ref\Tarea 6.dll
